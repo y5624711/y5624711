@@ -1,12 +1,9 @@
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World!! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 잘 부탁드립니다. </div> 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Yun's%20Git%20hub&animation=&fontColor=000000&fontSize=70" />
 </div>
 
 <div style="text-align: left;">
-    <image src="https://github.com/y5624711/y5624711/blob/main/github.svg">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 Git 주소 </h2> 
-    </image>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 Git 주소 </h2> 
     <br> 
     <div style="text-align: left;">
         <a href=https://github.com/y5624711/prj241126/>▶자산관리 Git</a>
