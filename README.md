@@ -1,7 +1,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 Git 주소 </h2> <br> 
     <div style="text-align: left;">
-        <a href=https://github.com/y5624711/prj2411260/>▶자산관리 Git</a>
+        <a href=https://github.com/y5624711/prj241126/>▶자산관리 Git</a>
         <br>
         <a href=https://github.com/y5624711/TeamProject250106/>▶낚시자리요 Git</a>
 </div>  
