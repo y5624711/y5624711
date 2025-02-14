@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 프로젝트 Git 주소 </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ 프로젝트 Git 주소 </h2> 
     <div style="text-align: left;">
         <a href=https://github.com/y5624711/TeamProject250106/>▶자산관리 Git</a>
         <br>
