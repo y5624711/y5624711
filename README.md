@@ -7,7 +7,7 @@
     <div style="text-align: left;">
         <a href="https://github.com/y5624711/TeamProject250106"/>▶자산관리 Git</a>
         <br>
-        <a href="http://43.201.71.147:8080"/>▶낚시자리요! Git</a>
+        <a href="https://github.com/y5624711/prj241126"/>▶낚시자리요! Git</a>
     </div>  
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 프로젝트 결과물 </h2>
